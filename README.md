@@ -1,4 +1,4 @@
 colors.scss
 ===========
 
-An extensive color chart. Contains 349 different colors.
+An extensive color chart. Contains 366 different colors.
